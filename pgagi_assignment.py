@@ -5,7 +5,7 @@ import re
 import time
 
 # --- API Setup ---
-genai.configure(api_key="AIzaSyDap-gsrGYIzLWCADfWLoK8wsSsV80DoIk")  # Replace with your API key
+genai.configure(api_key="place your key here")  # Replace with your API key
 MODEL_NAME = "models/gemini-1.5-flash"
 
 # --- Helper Functions ---
